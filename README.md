@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Novitski 👋
 
-I'm a 2025 computer science Bowdoin College alum with experienced knowledge in deep learning, distributed systems, operating systems, and creative coding. I enjoy tackling complex problems and building practical solutions through code.
+I'm a 2025 Bowdoin College alum with experienced knowledge in deep learning, distributed systems, operating systems, and creative coding. I enjoy tackling complex problems and building practical solutions through code.
 
 ## 🛠 Skills & Interests
 - **Languages**: Python, C, C++, Java, JavaScript, HTML, SQL, Ruby, Bash
