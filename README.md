@@ -15,7 +15,7 @@ I'm a 2025 graduate of Bowdoin College with hands-on experience in deep learning
 - **[PyTorch: CNN and MLP Comparison](https://github.com/rnovitski24/Pytorch-CNN-MLP-Comparison-CSCI3485)**  
   Designed and tested generalized CNN and MLP architectures with parameter sweeps across kernel sizes and filter counts.
 
-- **[Thread Library in C++](https://github.com/rnovitski24/thread-library)**  
+- **[Thread Library in C++](https://github.com/rnovitski24/custom-thread-library)**  
   A user-level threading library using context switching and manual scheduling logic, built from scratch in C++.
 
 ## 🤝 Let's Connect
